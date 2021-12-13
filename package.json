@@ -13,10 +13,7 @@
   "engines": {
     "node": ">=14.0.0"
   },
-  "esm": {
-    "force": true,
-    "mode": "auto"
-  },
+  "type": "module,
   "keywords": [
     "axios",
     "dns",
